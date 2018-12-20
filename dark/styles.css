@@ -2,7 +2,7 @@
   *
   *     Filename:        styles.css
   *     Description:     CYGO Nerd Aesthetic Dark
-  *     Version:         0.2.1
+  *     Version:         0.2.2
   *
   *     -- FILE STRUCTURE: --
   *
@@ -3728,26 +3728,14 @@ body .ow_avatar_console .ow_avatar_label {
 /*info*/
 .ow_message_cont .ow_message_node.info {
 	background: #36d0ae;
-	border-top:1px solid #36d0ae;
-	border-right:1px solid #36d0ae;
-	border-bottom:1px solid #36d0ae;
-	border-left:1px solid #36d0ae;
 }
 /*warning*/
 .ow_message_cont .ow_message_node.warning {
 	background: #f4b111;
-	border-top:1px solid #f4b111;
-	border-right:1px solid #f4b111;
-	border-bottom:1px solid #f4b111;
-	border-left:1px solid #f4b111;
 }
 /*error*/
 .ow_message_cont .ow_message_node.error {
 	background: #dc3c56;
-	border-top:1px solid #dc3c56;
-	border-right:1px solid #dc3c56;
-	border-bottom:1px solid #dc3c56;
-	border-left:1px solid #dc3c56;
 }
 /* ---- End of the Message (Feedback) styles ---- */
 /*========================================================
