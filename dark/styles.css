@@ -2,7 +2,7 @@
   *
   *     Filename:        styles.css
   *     Description:     CYGO Nerd Aesthetic Dark
-  *     Version:         0.2.2
+  *     Version:         0.2.4
   *
   *     -- FILE STRUCTURE: --
   *
@@ -1664,8 +1664,8 @@ html body .ow_box_cap_empty .ow_box_cap_body h3 {
 	min-height: 32px;
 }
 .ow_box {
-    background-color: #fff;
-    border: 1px solid #eff2f5;
+    background-color: #1e1c1c;
+    border: 1px solid #252526;
     border-top: none;
     margin-bottom: 8px;
     padding: 16px;
@@ -1685,7 +1685,7 @@ html body .ow_box_cap_empty .ow_box_cap_body h3 {
     text-align: right;
 }
 .ow_box.ow_no_cap {
-	border-top: 1px solid #eff2f5;
+	border-top: 1px solid #3a3a3b;
 }
 .ow_box_empty .ow_box_toolbar_cont {
 	border-bottom: 2px solid #eff2f5;
@@ -2901,7 +2901,7 @@ html body div .ow_bg_controls .ow_green{
 .ow_photo_list .ow_alt1,
 .ow_photo_list .ow_alt2 {
 	border-style: solid;
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 .ow_table_1 tr td,
 .ow_table_2 tr td {
@@ -3867,20 +3867,20 @@ body .ow_disabled::-moz-selection {
 }
 .ow_alt1,
 tr.ow_alt1 td{
-    background-color: #fff; 
+    background-color: #1e1c1c; 
 }
 .ow_alt2,
 tr.ow_alt2 td{
-    background-color: #fff; 
+    background-color: #1e1c1c; 
 }
 .ow_high1{
-    background-color: #fff; 
+    background-color: #1e1c1c; 
 }
 .ow_high2{
-    background-color: #fff;
+    background-color: #1e1c1c;
 }
 .ow_anno {
-	background:#fff url(images/ic_warning.svg) no-repeat scroll 15px 45%;
+	background:#1e1c1c url(images/ic_warning.svg) no-repeat scroll 15px 45%;
 	border:1px solid #ccd6de;
 	padding:10px;
 }
@@ -3890,9 +3890,9 @@ tr.ow_alt2 td{
 }
 .ow_highbox_table .ow_highbox,
 .ow_highbox {
-	background: #f8fafc;
+	background: #1e1c1c;
 	border: none;
-	box-shadow: 0px 0px 1px #eff2f5;
+	box-shadow: 0px 0px 1px #1e1c1c;
 }
 .ow_highbox {
 	padding: 4px;
@@ -3906,10 +3906,10 @@ th,
 .ow_page .ow_highbox,
 .ow_sidebar,
 .ow_table_3 td {
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 .ow_page td.ow_highbox {
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 .ow_autowidth,
 table.ow_form td.ow_autowidth {
@@ -5939,7 +5939,7 @@ h1.page_title{
     }
     .ow_video_list > .ow_alt1,
     .ow_video_list > .ow_alt2 {
-    	background-color: #fff;
+    	background-color: #1e1c1c;
     	padding-left: 0;
     }
 }
