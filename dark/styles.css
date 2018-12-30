@@ -1078,7 +1078,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 	right: -1px;
 	padding: 25px 0px 10px;
 	background-color: #1e1c1c;
-	border: 1px solid #eff2f5;
+	border: 1px solid #555;
 	display: none;
 	-webkit-animation-name: fadeIn; 
     animation-name: fadeIn;
