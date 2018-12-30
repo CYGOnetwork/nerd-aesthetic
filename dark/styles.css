@@ -1065,7 +1065,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 }
 .ow_menu_more:before {
 	border-color: rgba(239, 242, 245, 0);
-	border-right-color: #eff2f5;
+	border-right-color: #555;
 	border-width: 9px;
 	margin-top: -9px;
 }
@@ -1077,7 +1077,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 	top: 0px;
 	right: -1px;
 	padding: 25px 0px 10px;
-	background-color: #fff;
+	background-color: #1e1c1c;
 	border: 1px solid #eff2f5;
 	display: none;
 	-webkit-animation-name: fadeIn; 
