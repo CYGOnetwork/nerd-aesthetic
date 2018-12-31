@@ -3150,7 +3150,7 @@ h1 {
 	font-size: 20px;
 	line-height: 19px;
     padding-left: 0px;
-	color: #5b646a; /** OW_Control type: color, key: titleColor, section: 2. Colors, label:2. Title **/
+	color: #fff; /** OW_Control type: color, key: titleColor, section: 2. Colors, label:2. Title **/
 	text-transform: none;
 	margin-left: 0px;
 	background-repeat: no-repeat;
