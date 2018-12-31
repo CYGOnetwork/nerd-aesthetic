@@ -242,7 +242,7 @@ html body div .ow_page h1 {
 }
 .ow_border {
     border-style: solid;
-    border-color: #eff2f5;
+    border-color: #1e1c1c;
 }
 body > .ow_page_wrap {
 	min-height: 100%;
@@ -370,7 +370,7 @@ a.ow_logo:hover {
 }
 .ow_dnd_schem_item{
 	background:#fff url(images/ic_file.svg) no-repeat 10px 50%;
-	border:1px solid #eff2f5;
+	border:1px solid #1e1c1c;
 	cursor:move;
 	height:30px;
 	margin:2px 4px 2px 0;
@@ -435,7 +435,7 @@ a.ow_logo:hover {
    width: 74%;
 }
 .ow_dnd_clonable_components {
-   border-left: 1px solid #eff2f5;
+   border-left: 1px solid #1e1c1c;
    padding: 10px 0 10px 10px;
    width: 24%;
 }
@@ -708,7 +708,7 @@ body .ow_console_dropdown_pressed.ow_console_item a.ow_console_item_link {
 	color: #2db395;
 }
 .ow_signin_delimiter {
-    border-right: 1px solid #eff2f5;
+    border-right: 1px solid #1e1c1c;
     padding: 0 4px 0 0;
 }
 .ow_menu_active .ow_signin_delimiter {
@@ -1040,8 +1040,8 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 	position: relative;
 	display: block;
 	background: #fff;
-	border-left: 1px solid #eff2f5;
-	border-right: 1px solid #eff2f5;
+	border-left: 1px solid #1e1c1c;
+	border-right: 1px solid #1e1c1c;
 	width: 68px;
 	height: 70px;
 	background: url(images/menu_btn.svg) no-repeat 3px -115px;
@@ -1220,7 +1220,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 /* ---- Vertical menu styles ---- */
 .ow_vertical_nav.ow_vertical_menu,
 body .ow_vertical_nav_item {
-    border-color: #eff2f5;
+    border-color: #1e1c1c;
     border-radius: 0;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
@@ -1399,7 +1399,7 @@ body .ow_context_action_value_block .ow_context_action:hover .ow_context_more {
 .ow_context_action:hover,
 .ow_context_action.active {
     cursor: pointer;
-    border-color: #eff2f5;
+    border-color: #1e1c1c;
     background-color: #fff;
 }
 .ow_context_action:hover .ow_context_action_wrap {
@@ -1443,7 +1443,7 @@ body .ow_context_action_value_block .ow_context_action:hover .ow_context_more {
 .ow_context_action_divider {
 	line-height: 1px;
 	height: 1px;
-	background: #eff2f5;
+	background: #1e1c1c;
 	border-bottom: 1px solid #fff;
 	margin: 1px 0px 0px;
 }
@@ -1653,9 +1653,9 @@ html body .ow_box_cap_empty .ow_box_cap_body h3 {
 }
 .ow_box_cap {
 	background: #fff;
-	border-top: 1px solid #eff2f5;
-	border-left: 1px solid #eff2f5;
-	border-right: 1px solid #eff2f5;
+	border-top: 1px solid #1e1c1c;
+	border-left: 1px solid #1e1c1c;
+	border-right: 1px solid #1e1c1c;
 	border-bottom: none;
 	padding: 16px 16px 0;
 }
@@ -1688,7 +1688,7 @@ html body .ow_box_cap_empty .ow_box_cap_body h3 {
 	border-top: 1px solid #3a3a3b;
 }
 .ow_box_empty .ow_box_toolbar_cont {
-	border-bottom: 2px solid #eff2f5;
+	border-bottom: 2px solid #1e1c1c;
 }
 .ow_box_toolbar {
 	margin-top: 16px;
@@ -2075,10 +2075,10 @@ div.tagsinput span.tag {
 	-moz-border-radius: 0;
 	-webkit-border-radius: 0;
 	background: #fff;
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 div.tagsinput span.tag a {
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 div.tagsinput span.tag span {
 	font-size: 13px;
@@ -2105,7 +2105,7 @@ html body span.ow_lbutton {
     font-size: 11px;
 }
 .ow_lbutton:hover{
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 	cursor: pointer;
     text-decoration: none;
 }
@@ -2304,7 +2304,7 @@ body .newsfeed-attachment-preview {
     background-color: #fff;
     width: 120px;
     height: 120px;
-    border: 1px solid #eff2f5;
+    border: 1px solid #1e1c1c;
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
@@ -2370,7 +2370,7 @@ body .newsfeed-attachment-preview {
     overflow: hidden;
 }
 .ow_file_attachment_info:hover {
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 .ow_file_attachment_info a {
 	line-height: 22px;
@@ -2681,7 +2681,7 @@ body textarea.ow_newsfeed_status_input.invitation {
     border: 1px solid transparent;
 }
 .ow_bl a:hover {
-    border-color: #eff2f5;
+    border-color: #1e1c1c;
     color: #828894;
 }
 .ow_dnd_widget .ow_box_empty .ow_bl.ow_box_toolbar li {
@@ -2738,7 +2738,7 @@ span.ow_blitem input[type="button"] {
 }
 span.ow_blitem:hover,
 span.ow_blitem input:hover {
-    border-color: #eff2f5;
+    border-color: #1e1c1c;
     color: #828894;
 }
 /* Button List Cover Image */
@@ -3012,7 +3012,7 @@ html body div .ow_bg_controls .ow_green{
 .ow_table_1 th,
 .ow_table_2 th {
 	border-style: solid;
-	border-color: #eff2f5  #eff2f5 #eff2f5 #eff2f5;
+	border-color: #1e1c1c  #1e1c1c #1e1c1c #1e1c1c;
 	border-width: 0px 1px 1px;
 	_border-width: 1px;
 }
@@ -3023,7 +3023,7 @@ html body div .ow_bg_controls .ow_green{
 .ow_table_1 tr.ow_tr_first th,
 .ow_table_2 tr.ow_tr_first th {
 	border-width: 1px 0px 1px 0;
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 .ow_table_1 tr.ow_tr_first th:first-child,
 .ow_table_1 tr.ow_tr_first td:first-child,
@@ -3049,7 +3049,7 @@ html body div .ow_bg_controls .ow_green{
 }
 .ow_table_1 tr.ow_tr_first th:last-child,
 .ow_table_2 tr.ow_tr_first th:last-child {
-   	border-right-color: #eff2f5;
+   	border-right-color: #1e1c1c;
 }
 .ow_table_1 td,
 .ow_table_2 td{
@@ -3176,7 +3176,7 @@ table.ow_form td.ow_submit{
 .ow_ipc_info{
     margin-left: 56px;
     padding: 14px 16px 16px 16px;
-	border: 1px solid #eff2f5;   
+	border: 1px solid #1e1c1c;   
 }
 .ow_ipc_header{
     padding: 0px 0px 0px;
@@ -3567,14 +3567,14 @@ span.ow_icon{
 }
 /* ---- Avatar styles ---- */
 .ow_change_avatar .avatar_current{
-    border-right: 1px solid #eff2f5;
+    border-right: 1px solid #1e1c1c;
     padding-right: 3px;
 }
 .ow_change_avatar .ow_avatar_preview{
-    border-left: 1px solid #eff2f5;
+    border-left: 1px solid #1e1c1c;
 }
 .ow_change_avatar .avatar_crop{
-    border-bottom: 1px solid #eff2f5;
+    border-bottom: 1px solid #1e1c1c;
 }
 .ow_avatar_crop .jcrop-holder{
     margin: 0px auto;
@@ -3640,7 +3640,7 @@ html body .ow_console .ow_avatar_label  {
     position: relative;
     background: #fff;
     padding: 14px 4px 0px;
-    border: 1px solid #eff2f5;   
+    border: 1px solid #1e1c1c;   
 }
 .ow_avatar_console #avatar_console_image {
 	width: 190px;
@@ -4048,7 +4048,7 @@ body.htmlarea_styles .ow_quote_header,
 body.htmlarea_styles .ow_quote_cont_wrap,
 .ow_quote_cont_wrap {
 	background: url("images/quote_top.png") no-repeat right 1px;
-    border-color: #eff2f5;
+    border-color: #1e1c1c;
     border-style: solid;
     border-width: 0 1px 1px;
     display: block;
@@ -4181,11 +4181,11 @@ body .ow_mailbox_convers_info_new.chats .ow_mailbox_convers_info_string a {
 .ow_mailbox_table .ow_mailbox_left .ow_mailbox_search,
 .ow_mailbox_table .ow_mailbox_left .ow_mailbox_left_body,
 .ow_mailbox_right .ow_chat_message_block {
-    border-color: #eff2f5;
+    border-color: #1e1c1c;
 }
 .ow_mailbox_log .ow_dialog_item.odd .ow_dialog_in_item,
 .ow_mailbox_log .ow_dialog_item.even .ow_dialog_in_item {
-    border: 1px solid #eff2f5;
+    border: 1px solid #1e1c1c;
 }
 .ow_mailbox_log .ow_dialog_item.even i,
 .ow_mailbox_log .ow_dialog_item.odd i {
@@ -4199,7 +4199,7 @@ body .ow_mailbox_convers_info_new.chats .ow_mailbox_convers_info_string a {
 	border:1px solid transparent;
 }
 .ow_mailbox_convers_actions .ow_miniic_control:hover {
-	border: 1px solid #eff2f5;
+	border: 1px solid #1e1c1c;
 }
 .ow_mailbox_convers_actions .ow_miniic_control span {
 	width: 20px;
@@ -4328,7 +4328,7 @@ body span.ow_btn_sort_users:hover span {
 }
 body .ow_chat_block .ow_chat_search {
 	border-top: none;
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 body .ow_chat_block_main .ow_chat_search input[type="text"], 
 body .ow_chat_block_main .ow_chat_search input[type="password"] {
@@ -4381,7 +4381,7 @@ body .ow_mailchat_new_message .ow_mailchat_select_user a.ow_chat_minimize_btn {
 }
 .ow_chat_block .ow_top_panel {
 	border-style: solid;
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 body span.ow_chat_item_author, 
 body span.ow_chat_item_text,
@@ -4402,7 +4402,7 @@ body .ow_chat_dialog.ow_active {
 	background-color: #fff;
 }
 body .ow_mailchat_new_message.ow_chat_dialog {
-	border: 1px solid #eff2f5;
+	border: 1px solid #1e1c1c;
 }
 body .ow_diagonal_puller {
 	background-image: url(images/diagonal_puller.png);
@@ -4427,25 +4427,25 @@ html body .ow_chat_dialog .ow_chat_block {
 body .ow_chat_dialog .ow_author_block {
 	border-width: 1px 1px 0 1px;
 	border-style: solid;
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 body .ow_chat_dialog .ow_mailchat_select_user.ow_author_block {
 	border-width: 0;
-	border-bottom: 1px solid #eff2f5;
+	border-bottom: 1px solid #1e1c1c;
 }
 body .ow_chat_in_dialog_wrap {
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 	border-width: 0 1px 1px;
 }
 body .ow_dialog_date_cap {
 	color: #828894;
 	background-color: #fff;
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 }
 .ow_chat_message_block {
 	border-width: 0 1px;
 	border-style: solid;
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
@@ -4511,7 +4511,7 @@ body .ow_chat_dialog .ow_chat_subject_block input,
 }
 body .ow_mailchat_new_message .ow_chat_mailchat_inputarea,
 body .ow_mailchat_new_message .ow_file_attachment_info {
-	border-color: #eff2f5;
+	border-color: #1e1c1c;
 	border-radius: 0;
 	-moz-border-radius: 0;
 	-webkit-border-radius: 0;
@@ -4704,14 +4704,14 @@ body .ow_chat_dialog_wrap .ow_dialog_item i {
     text-transform: uppercase;
     color: #5b646a;
     background-color: #fff9ec;
-    border: 1px solid #eff2f5;
+    border: 1px solid #1e1c1c;
     font-size: 15px;
 }
 .ow_photo_upload_bottom .ow_photo_upload_submit {
     position: static;
 }
 .ow_photo_upload_wrap .ow_photo_preview_block_wrap .ow_photo_preview_edit {
-    border: 1px solid #eff2f5;
+    border: 1px solid #1e1c1c;
 }
 .ow_photo_preview_image {
     background-color: #fafafa;
@@ -4806,10 +4806,10 @@ body .ow_photo_list_wrap div.ow_photo_item {
     -webkit-border-radius: 0;
 }
 .ow_photo_album_info_wrap {
-    border-bottom: 1px solid #eff2f5;
+    border-bottom: 1px solid #1e1c1c;
 }
 .ow_photo_album_cover {
-    border-color: #eff2f5;
+    border-color: #1e1c1c;
 }
 .ow_photo_album_edit .ow_photo_album_cover .ow_lbutton {
 	visibility: hidden;
@@ -4972,7 +4972,7 @@ body .ow_photo_list.ow_photo_pint_mode .ow_photo_item {
 }
 /*Searchbar*/
 .ow_searchbar {
-	border:1px solid #eff2f5;
+	border:1px solid #1e1c1c;
 	padding: 2px 4px 2px 6px;
 	border-radius: 15px;
 	-moz-border-radius: 15px;
@@ -4981,7 +4981,7 @@ body .ow_photo_list.ow_photo_pint_mode .ow_photo_item {
 	margin-top: -8px;
 }
 .ow_searchbar .ow_searchbar_ac {
-    border: 1px solid #eff2f5;
+    border: 1px solid #1e1c1c;
     left: 9px;
     right: 0;
     top: 2px;
@@ -5061,7 +5061,7 @@ body input.ow_dropdown_btn {
     width: 100%;
 }
 .ow_dropdown_list {
-    border: 1px solid #eff2f5;
+    border: 1px solid #1e1c1c;
     position: absolute;
     top: -1px;
     left: 0;
@@ -5099,10 +5099,10 @@ li.ow_dropdown_delimeter {
 .ow_dropdown_delimeter div {
     width: 100%;
     height: 1px;
-    background-color: #eff2f5;
+    background-color: #1e1c1c;
 }
 .ow_photo_upload_drop_area {
-    border: 1px dashed #eff2f5;
+    border: 1px dashed #1e1c1c;
 }
 /* ---- Newsfeed styles ---- */
 body ul.ow_newsfeed {
@@ -5126,7 +5126,7 @@ body ul.ow_newsfeed {
    	box-shadow: none;
 }
 .ow_newsfeed_features .ow_tooltip.ow_comments_context_tooltip .ow_tooltip_body {
-	border: 1px solid #eff2f5;
+	border: 1px solid #1e1c1c;
 	padding: 4px 0;
 }
 .ow_newsfeed_features .ow_tooltip .ow_tooltip_tail span {
@@ -5921,7 +5921,7 @@ h1.page_title{
     	width: 100%;
     	margin: 0px;
     	padding: 24px 0 24px 24px;
-    	border-bottom: 1px solid #eff2f5;
+    	border-bottom: 1px solid #1e1c1c;
     	box-sizing: border-box;
     	-moz-box-sizing: border-box;
     	-webkit-box-sizing: border-box;
