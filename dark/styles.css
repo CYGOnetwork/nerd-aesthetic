@@ -3121,7 +3121,7 @@ body, html {
 	min-width: 1000px;
 }
 a {
-	color: #5b646a; /** OW_Control type:color, key:linkColor, section:2. Colors, label:3. Links **/
+	color: #2db395; /** OW_Control type:color, key:linkColor, section:2. Colors, label:3. Links **/
 	text-decoration: none;
 }
 a:hover {
