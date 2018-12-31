@@ -3188,7 +3188,7 @@ th {
 	font-size: 17px;
 }
 th {
-    background-color: #fff;
+    background-color: #1e1c1c;
     font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
 }
 hr {
@@ -6042,7 +6042,7 @@ html body div .ow_bg_controls .ow_green{
 .ow_table_1 tr.ow_tr_first th,
 .ow_table_2 tr.ow_tr_first th {
 	border-width: 1px 0px 1px 0;
-	border-color: #eff2f5;
+	border-color: #242222;
 }
 .ow_table_1 tr.ow_tr_first th:first-child,
 .ow_table_1 tr.ow_tr_first td:first-child,
@@ -6068,7 +6068,7 @@ html body div .ow_bg_controls .ow_green{
 }
 .ow_table_1 tr.ow_tr_first th:last-child,
 .ow_table_2 tr.ow_tr_first th:last-child {
-   	border-right-color: #eff2f5;
+   	border-right-color: #242222;
 }
 .ow_table_1 td,
 .ow_table_2 td{
