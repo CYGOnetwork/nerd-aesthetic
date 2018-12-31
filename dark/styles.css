@@ -6657,9 +6657,9 @@ html body .ow_console .ow_avatar_label  {
 /* ---- User Avatar Console styles ---- */
 .ow_avatar_console{
     position: relative;
-    background: #fff;
+    background: #1e1c1c;
     padding: 14px 4px 0px;
-    border: 1px solid #eff2f5;   
+    border: 1px solid #2d2d2d;   
 }
 .ow_avatar_console #avatar_console_image {
 	width: 190px;
