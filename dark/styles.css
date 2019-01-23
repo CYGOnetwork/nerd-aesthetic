@@ -8487,7 +8487,7 @@ body.ow.base_sign_in {
 	top: auto;
 }
 .ow.base_sign_in .ow_sign_in_cont {
-	background: none;
+	background-color: #1e1c1c;
 }
 .ow.base_sign_in .ow_sign_in_wrap h2 {
 	width: 100%;
