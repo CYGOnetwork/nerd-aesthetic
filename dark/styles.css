@@ -7458,8 +7458,8 @@ body .ow_chat_in_dialog_wrap {
 }
 body .ow_dialog_date_cap {
 	color: #828894;
-	background-color: #fff;
-	border-color: #eff2f5;
+	background-color: #1e1c1c;
+	border-color: #212121;
 }
 .ow_chat_message_block {
 	border-width: 0 1px;
