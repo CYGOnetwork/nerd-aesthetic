@@ -7497,8 +7497,8 @@ body .ow_chat_dialog_active.ow_mailchat_new_message .ow_mailchat_select_user.ow_
 	border-radius: 15px;
 	-moz-border-radius: 15px;
 	-webkit-border-radius: 15px;
-	background: #cad4dd;
-	border-color: #cad4dd;
+	background: #1e1c1c;
+	border-color: #212121;
 	font-size: 13px;
 }
 body .ow_chat_dialog_wrap .ow_dialog_in_item p {
