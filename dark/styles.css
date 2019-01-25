@@ -7062,7 +7062,8 @@ body.htmlarea_styles .ow_quote_header,
 .ow_quote_header {
 	display: block;
 	padding: 6px;
-	background-color: #cad4dd;
+	background-color: 
+		;
 }
 body.htmlarea_styles .ow_quote_cont_wrap,
 .ow_quote_cont_wrap {
@@ -7251,8 +7252,8 @@ body .ow_mailbox_avatar {
 }
 body .ow_mailbox_log .ow_dialog_item.odd .ow_dialog_in_item, 
 body .ow_mailbox_log .ow_dialog_item.even .ow_dialog_in_item {
-	background: #cad4dd;
-	border-color: #cad4dd;
+	background: #1e1c1c;
+	border-color: #212121;
 	-moz-border-radius: 15px;
     -webkit-border-radius: 15px;
     border-radius: 15px;
