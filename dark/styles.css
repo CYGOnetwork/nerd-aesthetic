@@ -1610,9 +1610,9 @@ a.ow_btn_settings.ow_active span {
 } 
 .ow_dialog_date_cap {
     width: 100%;
-    border-top: 1px solid #ececec;
-    border-bottom: 1px solid #ececec;
-    background-color: #f5f5f5;
+    border-top: 1px solid #212121;
+    border-bottom: 1px solid #212121;
+    background-color: #1e1c1c;
     font-size: 11px;
     z-index: 2;
     color: #757575;
