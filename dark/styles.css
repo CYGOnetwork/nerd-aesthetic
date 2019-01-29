@@ -4814,10 +4814,10 @@ select,
 div.jhtmlarea,
 .ow_photo_upload_description,
 .ow_photo_preview_edit .CodeMirror{
-	background-color: #fff;
-    border: 1px solid #ccd6de;
-    color: #828894;
-    font-family: "Lucida Grande", "Verdana";
+	background-color: #555555;
+    border: 1px solid #212121;
+    color: #fff;
+    font-family: 'core_sans_e45_regular', Helvetica, Arial;
     font-size: 13px;
     padding: 4px;
 }
