@@ -3365,7 +3365,6 @@ a.ow_logo:hover {
     width: 100%;
 }
 .ow_header_pic {
-    background-image: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/header.jpg); /** OW_Control type:image, key:headerImage, section:1. General Settings, label:2. Header background image **/
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
