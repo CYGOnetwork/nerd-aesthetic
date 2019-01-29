@@ -3235,8 +3235,8 @@ hr {
 }
 @font-face {
     font-family: 'Ubuntu';
-    src: url('https://cygobeta.ml/dark/ubuntu.ttf');
-    src: url('https://cygobeta.ml/dark/ubuntu.ttf') format('truetype'),
+    src: url('https://cygonetwork.github.io/nerd-aesthetic/dark/fonts/ubuntu.ttf');
+    src: url('https://cygonetwork.github.io/nerd-aesthetic/dark/fonts/ubuntu.ttf') format('truetype'),
     font-weight: normal;
     font-style: normal;
 }
