@@ -5465,8 +5465,8 @@ body .ow_attachments a.video {
 .ow_photo_attachment_preview,
 .ow_oembed_attachment_preview,
 .ow_oembed_attachment_pic {
-	background-color: #fff;
-	border-color: #e4e9ee;
+	background-color: #1e1c1c;
+	border-color: #212121;
 	border-style: solid;
 }
 .ow_comments_item {
