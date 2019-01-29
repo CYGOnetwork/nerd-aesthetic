@@ -4195,7 +4195,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
     display: block;
 }
 .ow_content_menu li.active {
-    border-color: #ccd6de #ccd6de #fff #ccd6de;
+    border-color: #212121 #212121 #212121 #212121;
 }
 .ow_content_menu li.active a {
     color: #949a9d; 
