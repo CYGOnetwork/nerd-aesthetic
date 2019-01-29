@@ -4671,10 +4671,10 @@ html body .ow_box_cap_empty .ow_box_cap_body h3 {
 	background-image: none;
 }
 .ow_box_cap {
-	background: #fff;
-	border-top: 1px solid #eff2f5;
-	border-left: 1px solid #eff2f5;
-	border-right: 1px solid #eff2f5;
+	background: #1e1c1c;
+	border-top: 1px solid #212121;
+	border-left: 1px solid #212121;
+	border-right: 1px solid #212121;
 	border-bottom: none;
 	padding: 16px 16px 0;
 }
