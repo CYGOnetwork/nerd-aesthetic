@@ -7156,13 +7156,13 @@ body .ow_mailbox_right.ow_mailbox_right_loading div.ow_mailbox_right_preloading 
     line-height: 14px;
 }
 .ow_mailbox_convers_info {
-	background-color: #fff;
+	background-color: #1e1c1c;
 }
 .ow_mailbox_convers_info_new {
-	background-color: #fff;
+	background-color: #1e1c1c;
 }
 .ow_mailbox_convers_info_selected {
-	background-color: #fff;
+	background-color: #1e1c1c;
 }
 .ow_mailbox_convers_info:hover,
 .ow_mailbox_convers_info_selected,
@@ -7173,7 +7173,7 @@ body .ow_mailbox_right.ow_mailbox_right_loading div.ow_mailbox_right_preloading 
 }
 body .ow_mailbox_convers_info .ow_mailbox_convers_info_string a {
 	font-size: 14px;
-	text-transform: uppercase;
+	text-transform: none;
 }
 body .ow_mailbox_convers_info .ow_mailbox_convers_info_string a:hover {
 	color: #5b646a;
