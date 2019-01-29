@@ -7201,11 +7201,11 @@ body .ow_mailbox_convers_info_new.chats .ow_mailbox_convers_info_string a {
 .ow_mailbox_table .ow_mailbox_left .ow_mailbox_search,
 .ow_mailbox_table .ow_mailbox_left .ow_mailbox_left_body,
 .ow_mailbox_right .ow_chat_message_block {
-    border-color: #eff2f5;
+    border-color: #212121;
 }
 .ow_mailbox_log .ow_dialog_item.odd .ow_dialog_in_item,
 .ow_mailbox_log .ow_dialog_item.even .ow_dialog_in_item {
-    border: 1px solid #eff2f5;
+    border: 1px solid #212121;
 }
 .ow_mailbox_log .ow_dialog_item.even i,
 .ow_mailbox_log .ow_dialog_item.odd i {
@@ -7219,7 +7219,7 @@ body .ow_mailbox_convers_info_new.chats .ow_mailbox_convers_info_string a {
 	border:1px solid transparent;
 }
 .ow_mailbox_convers_actions .ow_miniic_control:hover {
-	border: 1px solid #eff2f5;
+	border: 1px solid #212121;
 }
 .ow_mailbox_convers_actions .ow_miniic_control span {
 	width: 20px;
