@@ -7991,12 +7991,12 @@ body .ow_photo_list.ow_photo_pint_mode .ow_photo_item {
 }
 /*Searchbar*/
 .ow_searchbar {
-	border:1px solid #eff2f5;
+	border:1px solid #212121;
 	padding: 2px 4px 2px 6px;
 	border-radius: 15px;
 	-moz-border-radius: 15px;
 	-webkit-border-radius: 15px;
-	background: #fff;
+	background: #1e1c1c;
 	margin-top: -8px;
 }
 .ow_searchbar .ow_searchbar_ac {
