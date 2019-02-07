@@ -1232,7 +1232,7 @@ body ul.uh-action-toolbar li:first-child {
     font-family: 'UbuntuBold',"Trebuchet MS","Helvetica CY", sans-serif;
 }
 .ow_chat_dialog_wrap .ow_chat_message_block textarea {
-    background: #fff;
+    background: #212121;
 }
 .ow_chat_dialog_wrap .ow_count_bg,
 .ow_chat .ow_count_bg {
