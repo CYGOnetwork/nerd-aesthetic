@@ -6745,11 +6745,11 @@ body .ow_avatar_console .ow_avatar_label {
 }
 /*info*/
 .ow_message_cont .ow_message_node.info {
-	background: #36d0ae;
+	color: #36d0ae;
 }
 /*warning*/
 .ow_message_cont .ow_message_node.warning {
-	background: #f4b111;
+	color: #f4b111;
 }
 /*error*/
 .ow_message_cont .ow_message_node.error {
