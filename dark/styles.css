@@ -7956,8 +7956,8 @@ body .ow_photoview_stage_wrap .ow_photo_context_action .ow_context_action .ow_co
 }
 /* Pint Mode */
 body .ow_photo_pint_mode .ow_photo_item_wrap .ow_photo_item_info {
-    background-color: #fff;
-    border: 1px solid #cad4dd;
+    background-color: #1e1c1c;
+    border: 1px solid #212121;
     border-radius: 0;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
