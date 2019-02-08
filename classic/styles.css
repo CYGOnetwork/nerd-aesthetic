@@ -3343,7 +3343,7 @@ body > .ow_page_wrap {
 	padding-top: 50px;
 }
 .ow_logo {
-	<!-- Removed image URL, will be indicated by instance-specified logo (native css)-->
+	/*Removed image URL, will be indicated by instance-specified logo (native css)*/
 	background-size: auto 41px;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -4017,7 +4017,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 	display: inline-block;
 }
 .ow_main_menu li a {
-    <!-- Color will be specified by instance styling-->
+    /* Color will be specified by instance styling */
     display: inline-block;
 	font-size: 15px;
     padding: 0 1vw;
