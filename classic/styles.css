@@ -3121,7 +3121,7 @@ body, html {
 	min-width: 1000px;
 }
 a {
-	color: #5b646a; /** OW_Control type:color, key:linkColor, section:2. Colors, label:3. Links **/
+	color: #f60; /** OW_Control type:color, key:linkColor, section:2. Colors, label:3. Links **/
 	text-decoration: none;
 }
 a:hover {
@@ -3343,7 +3343,7 @@ body > .ow_page_wrap {
 	padding-top: 50px;
 }
 .ow_logo {
-	background-image: url(https://cygonetwork.com/go/ow_static/themes/simplicity/images/logo.png); /** OW_Control type:image, key:logoImage, section:1. General Settings, label: 3. Logo image **/
+	<!-- Removed image URL, will be indicated by instance-specified logo (native css)-->
 	background-size: auto 41px;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -4018,7 +4018,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 	display: inline-block;
 }
 .ow_main_menu li a {
-    color: #5b646a; /** OW_Control type:color, key:menuColor, section:2. Colors, label:4. Menu text color **/
+    <!-- Color will be specified by instance styling-->
     display: inline-block;
 	font-size: 15px;
     padding: 0 1vw;
@@ -6876,7 +6876,7 @@ body .ow_disabled::-moz-selection {
     background: #aaffaa;
 }
 .ow_outline {
-    color: #2db395; /** OW_Control type:color, section:2. Colors, key:txtValue, label:5. Numeric values **/
+    /*-- Color specified by instance styling */
     font-family: 'core_sans_e55_medium', "Trebuchet MS", "Helvetica CY", sans-serif;
 }
 .ow_lightweight {
@@ -6884,7 +6884,7 @@ body .ow_disabled::-moz-selection {
 }
 .ow_txt_value {
     font-family: 'core_sans_e55_medium', "Trebuchet MS", "Helvetica CY", sans-serif;
-    color: #949a9d; /** OW_Control type:color, section:2. Colors, key:txtValue, label:5. Numeric values **/
+    /*-- Color specified by instance styling */
 }
 .ow_remark {
 	color: #828894; 
@@ -11038,7 +11038,7 @@ h1 {
         font-size: 22.5px;
         line-height: 19px;
     padding-left: 0px;
-        color: #5b646a; /** OW_Control type: color, key: titleColor, section: 2. Colors, label:2. Title **/
+        /*-- Color specified by instance styling */
         text-transform: none;
 h1, h2, h3, h4, h5 {
         color: #5b646a; 
@@ -11048,7 +11048,7 @@ h1, h2, h3, h4, h5 {
         font-family: 'core_sans_e55_medium',"Quicksand Light","Calibri","Helvetica","Arial","Segoe UI Semilight",sans-serif;
 body, html {
         font-family: 'core_sans_e45_regular',"Quicksand Light", "Raleway Light", "Helvetica", "Arial", "Calibri", "Segoe UI Semilight";
-        color: #828894; /** OW_Control type:color, section:2. Colors, key:textColor, label:1. Text **/
+        /*-- Color specified by instance styling */
         font-size: 13.3px;
         line-height: 17.6px;
         height: 100%;
@@ -11065,7 +11065,7 @@ b {
         padding: 0;
         font-family: 'core_sans_e35_light', "Quicksand Light", "Segoe UI Semilight", "Helvetica CY", sans-serif;
 .ow_main_menu li a {
-    color: #5b646a; /** OW_Control type:color, key:menuColor, section:2. Colors, label:4. Menu text color **/
+    /*-- Color specified by instance styling */
     display: inline-block;
         font-size: 16px;
     padding: 0 1vw;
@@ -11133,7 +11133,7 @@ b {
         text-transform: none;
 }
 .ow_main_menu li a {
-    color: #5b646a; /** OW_Control type:color, key:menuColor, section:2. Colors, label:4. Menu text color **/
+    /*-- Color specified by instance styling */
     display: inline-block;
         font-size: 15px;
     padding: 0 1vw;
