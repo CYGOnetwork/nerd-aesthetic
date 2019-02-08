@@ -1,5 +1,5 @@
 var style_cookie_name = "CYGO Aesthetic Retention" ;
-var style_cookie_duration = 30 ;
+var style_cookie_duration = 500 ;
 var style_domain = "cygonetwork.com" ;
 
 function switch_style ( css_title )
