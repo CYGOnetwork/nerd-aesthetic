@@ -4821,7 +4821,7 @@ div.jhtmlarea,
     padding: 4px;
 }
 body form div.jhtmlarea {
-	background: #fff;
+	background: #212121;
 	width: 100% !important;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -4830,7 +4830,7 @@ body form div.jhtmlarea {
 body .toolbar {
 	padding: 2px 2px 0px;
 	height: 22px;
-	background: #fff;
+	background: #1e1c1c;
 	border: none;
 }
 body .toolbar ul li {
