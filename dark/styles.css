@@ -5082,18 +5082,18 @@ body.htmlarea_styles p{
 }
 /* tag styles */
 div.tagsinput { 
-	background-color: #fff;
+	background-color: #1e1c1c;
 	border-radius: 0;
 	-moz-border-radius: 0;
 	-webkit-border-radius: 0;
-	border-color: #ccd6de;
+	border-color: #212121;
 }
 div.tagsinput span.tag {
 	border-radius: 0;
 	-moz-border-radius: 0;
 	-webkit-border-radius: 0;
-	background: #fff;
-	border-color: #eff2f5;
+	background: #1e1c1c;
+	border-color: #212121;
 }
 div.tagsinput span.tag a {
 	border-color: #eff2f5;
