@@ -10310,5 +10310,8 @@ body .ow_mailbox_form.active .ow_mailbox_message_input textarea {
 .ow_content a.gtabs-active {
 	color: #f60;
 }
+.ow_page_wrap {
+	background: #1e1c1c;
+}
 	
 
