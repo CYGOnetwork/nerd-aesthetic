@@ -3825,11 +3825,11 @@ div.ow_console_lang_item:hover > span {
 	border: 1px solid transparent;
 }
 .ow_console_list li.ow_console_new_message {
-	background: #fff;
-	border-color: #5cd9bd;
+	background: #1e1c1c;
+	border-color: #212121;
 }
 .ow_console_list li:hover {
-	border-color: #d9e0e6;
+	border-color: #5cd9bd;
 }
 .ow_console_list li.ow_console_new_message:hover {
 	border-color: #d9e0e6;
