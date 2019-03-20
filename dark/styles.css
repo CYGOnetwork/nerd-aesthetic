@@ -6553,8 +6553,8 @@ html body div span.ow_button:hover span {
     line-height: 15px;
 }
 
-html body div .ow_miniic_comment{ background: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/miniic_set.svg) no-repeat -38px 0px; }
-html body div .ow_miniic_like { background: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/miniic_set.svg) no-repeat 0px 0px; }
+html body div .ow_miniic_comment{ background: url(https://cygonetwork.github.io/nerd-aesthetic/icons/vote-comment.svg) no-repeat -38px 0px; }
+html body div .ow_miniic_like { background: url(https://cygonetwork.github.io/nerd-aesthetic/icons/vote-comment.svg) no-repeat 0px 0px; }
 html body div .ow_miniic_delete{ background-image: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/miniic_x.png); }
 
 html body div .ow_tinyic_delete{ background-image: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/tinyic_delete.png); }
