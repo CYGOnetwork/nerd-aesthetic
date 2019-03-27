@@ -2115,7 +2115,7 @@ body .ow_dialog_item.ow_chat_video_item {
     width: 100%;
 }
 .ow_chat_dialog_wrap .ow_chat_message_block .ow_chat_message textarea {
-    background-color: #fff;
+    background-color: #212121;
     color: #333;
 }
 .ow_chat_dialog .ow_chat_message_block span.ow_chat_in_item_photo {
@@ -7408,7 +7408,7 @@ body .ow_chat_dialog_wrap .ow_chat_message_block .ow_chat_message textarea,
 body .ow_mailchat_new_message.ow_chat_dialog.ow_active .ow_mailchat_select_user input,
 html body .ow_chat_dialog .ow_chat_subject_block input,
 body .ow_mailchat_autocomplete_inner span.ow_chat_item_author .ow_chat_in_item_author {
-	color:#4c4c4c;
+	color:#ffffff;
 	font-weight: normal;
 }
 body .ow_author_block span.ow_chat_item_author {
@@ -7418,7 +7418,7 @@ body .ow_chat_dialog {
 	background-color: #36353b;
 }
 body .ow_chat_dialog.ow_active {
-	background-color: #fff;
+	background-color: #212121;
 }
 body .ow_mailchat_new_message.ow_chat_dialog {
 	border: 1px solid #212121;
