@@ -10313,5 +10313,9 @@ body .ow_mailbox_form.active .ow_mailbox_message_input textarea {
 .ow_page_wrap {
 	background: #1e1c1c;
 }
+.smileys_tooltip_body {
+	background: #212121;
+	border: 1px solid #212121;
+}
 	
 
