@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Santana;
+  src: url(https://cygonerdaesthetic.netlify.com/dark/fonts/santana.ttf);
+}
 .ow_hover_catch{
 
 }
@@ -3144,7 +3148,7 @@ h1, h2, h3, h4, h5 {
 	margin: 0;
 	padding: 0;
 	font-weight: normal;
-	font-family: 'Ubuntu','core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
+	font-family: 'Santana','core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
 }
 h1 {
 	font-size: 20px;
