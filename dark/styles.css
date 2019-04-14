@@ -1,6 +1,6 @@
 @font-face {
   font-family: Santana;
-  src: url(https://cygonerdaesthetic.netlify.com/dark/fonts/santana.ttf);
+  src: url(https://cygonerdaesthetic.netlify.com/dark/fonts/santana.ttf) format('truetype');
 }
 .ow_hover_catch{
 
