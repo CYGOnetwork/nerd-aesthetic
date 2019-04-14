@@ -4688,6 +4688,7 @@ html body .ow_box_cap_empty .ow_box_cap_body h3 {
     margin-bottom: 8px;
     padding: 16px;
     position: relative;
+    box-shadow: 10px 10px 8px #1a1717;
 }
 .ow_forum_topic_posts .ow_box {
 	/*border-top: 1px solid #dddfeb;*/
