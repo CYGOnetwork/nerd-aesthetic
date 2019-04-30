@@ -1,7 +1,3 @@
-@font-face {
-  font-family: Santana;
-  src: url(https://cygonerdaesthetic.netlify.com/dark/fonts/santana.ttf) format('truetype');
-}
 .ow_hover_catch{
 
 }
@@ -6455,7 +6451,7 @@ html body div .ow_ic_warning{ background-image: url(https://cygonetwork.com/b/go
 html body div .ow_ic_write{ background-image: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/ic_write.svg); }
 html body div .ow_ic_close{ background-image: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/ic_x.svg); }
 
-/*---- Icons on hover for buttons styles ----*/
+/*---- Begin confusing icon gibberish ----*/
 html body .ow_button:hover .ow_ic_add {background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20enable-background%3D%22new%200%200%2020%2020%22%3E%3Cg%20fill%3D%22%23fff%22%3E%3Cpath%20d%3D%22m2.959%2011c-.553%200-1-.447-1-.999%200-.553.447-1%201-1h13.999c.552%200%201%20.447%201%201%200%20.552-.448%201-1%201h-13.999%22/%3E%3Cpath%20d%3D%22m8.959%203c0-.553.447-1%20.999-1%20.553%200%201%20.447%201%201v13.999c0%20.552-.447%201-1%201-.552%200-1-.448-1-1v-13.999%22/%3E%3C/g%3E%3C/svg%3E);}
 html body .ow_button:hover .ow_ic_aloud{background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20enable-background%3D%22new%200%200%2020%2020%22%3E%3Cg%20fill%3D%22%23fff%22%3E%3Cpath%20d%3D%22m11%202c-1.969%200-5%204-5%204h-2c-1.104%200-2%20.896-2%202v2%202c0%201.104.896%202%202%202h2c0%200%203.03%204%205%204%20.266%200%201%200%201%200v-8-8c0%200-.734%200-1%200%22/%3E%3Cpath%20d%3D%22m13%207h1v6h-1z%22/%3E%3Cpath%20d%3D%22m15%205h1v10h-1z%22/%3E%3Cpath%20d%3D%22m17%202.5h1v15h-1z%22/%3E%3C/g%3E%3C/svg%3E);}
 html body .ow_button:hover .ow_ic_app{ background-image: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/ic_app.svg);}
@@ -6524,7 +6520,7 @@ html body .ow_button:hover .ow_ic_video{background-image: url(data:image/svg+xml
 html body .ow_button:hover .ow_ic_warning{background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20enable-background%3D%22new%200%200%2020%2020%22%3E%3Cpath%20fill%3D%22%23fff%22%20d%3D%22m17.775%2015.345l-6.911-11.849c-.358-.614-1.369-.614-1.728%200l-7%2012c-.181.31-.182.691-.003%201s.509.502.867.502h14c.007%200%20.015%200%20.02%200%20.553%200%201-.447%201-1%200-.251-.092-.479-.245-.655%22/%3E%3Cg%20fill%3D%22%23fff%22%3E%3Cpath%20d%3D%22m11%2011.25c0%20.553-.448%201-1%201-.552%200-1-.447-1-1v-4.25c0-.552.448-1%201-1%20.552%200%201%20.448%201%201v4.25%22/%3E%3Ccircle%20cx%3D%2210%22%20cy%3D%2214.25%22%20r%3D%221%22/%3E%3C/g%3E%3C/svg%3E);}
 html body .ow_button:hover .ow_ic_write{background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20enable-background%3D%22new%200%200%2020%2020%22%3E%3Cg%20fill%3D%22%23fff%22%3E%3Cpath%20d%3D%22m4.851%2017.978c-2.851.022-2.851.022-2.851.022s0%200%20.022-2.852c.002-.321.906-.906.906-.906l2.829%202.828c.001%200-.586.905-.906.908%22/%3E%3Cpath%20d%3D%22m16.932%203.068c-.78-.781-1.312-1.516-2.094-.734l-1.346%201.346%202.828%202.828%201.346-1.346c.781-.782.047-1.313-.734-2.094%22/%3E%3Cpath%20transform%3D%22matrix%28.7071-.7071.7071.7071-4.533%209.839%29%22%20d%3D%22m3.401%208.39h12.417v4h-12.417z%22/%3E%3C/g%3E%3C/svg%3E);}
 html body .ow_button:hover .ow_ic_close{background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20enable-background%3D%22new%200%200%2020%2020%22%3E%3Cg%20fill%3D%22%23fff%22%3E%3Cpath%20d%3D%22m2.301%203.756c-.391-.391-.391-1.024-.001-1.414.391-.391%201.023-.391%201.414%200l13.913%2013.914c.39.391.391%201.023%200%201.414-.391.391-1.024.391-1.415%200l-13.911-13.914%22/%3E%3Cpath%20d%3D%22m16.14%202.401c.43-.43%201.095-.462%201.485-.072.391.391.358%201.055-.071%201.485l-13.822%2013.822c-.429.429-1.094.462-1.485.071-.39-.391-.358-1.057.071-1.485l13.822-13.821%22/%3E%3C/g%3E%3C/svg%3E);}
-/*---- End of the Icons on hover for buttons styles ----*/
+/*---- End of confusing icon gibberish ----*/
 html body.ow div .ow_inprogress {
     background-image: url(https://cygonetwork.com/b/go/ow_static/themes/simplicity/images/ajax_preloader_button.gif);
 }
