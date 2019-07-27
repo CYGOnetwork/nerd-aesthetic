@@ -3144,7 +3144,7 @@ h1, h2, h3, h4, h5 {
 	margin: 0;
 	padding: 0;
 	font-weight: normal;
-	font-family: 'Santana','core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
+	font-family: 'Santana', Ubuntu, Open Sans, Arial,sans-serif;
 }
 h1 {
 	font-size: 20px;
