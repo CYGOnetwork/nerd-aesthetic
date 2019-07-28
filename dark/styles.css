@@ -3234,19 +3234,10 @@ hr {
     font-style: normal;
 }
 @font-face {
-    font-family: 'Ubuntu';
-    src: url('https://cygonerdaesthetic.netlify.com/dark/fonts/ubuntu.ttf');
-    src: url('https://cygonerdaesthetic.netlify.com/dark/fonts/ubuntu.ttf') format('truetype'),
-    font-weight: normal;
-    font-style: normal;
+    font-family: "loganljohnson";
+    src: url("https://cygonerdaesthetic.netlify.com/dark/fonts/loganljohnson.woff") format('woff');
 }
-@font-face {
-    font-family: 'Santana';
-    src: url('https://cygonerdaesthetic.netlify.com/dark/fonts/santana2.woff');
-    src: url('https://cygonerdaesthetic.netlify.com/dark/fonts/santana.ttf') format('truetype'),
-    font-weight: normal;
-    font-style: normal;
-}
+
 /*========================================================
         [5] Masterpage & Page Layout        __layout
   ========================================================*/
