@@ -3113,7 +3113,7 @@ body {
 	background-color: #fff; /** OW_Control type:color, section:1. General Settings, key:bodyColor, label:1. Page background color **/
 }
 body, html {
-	font-family: 'core_sans_e45_regular',"Helvetica", "Arial", "Verdana";
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	color: #fff; /** OW_Control type:color, section:2. Colors, key:textColor, label:1. Text **/
 	font-size: 14px;
 	line-height: 18px;
@@ -3133,7 +3133,7 @@ a:hover img {
 }
 b {
 	font-weight: normal;
-	font-family: 'core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 p {
 	text-indent: 0;
@@ -3189,7 +3189,7 @@ th {
 }
 th {
     background-color: #1e1c1c;
-    font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 hr {
 	background-color: #212121;
@@ -3618,7 +3618,7 @@ body.ow_menu_active {
 	width: 100%;
 	display: inline-block;
 	padding: 0;
-	font-family: 'core_sans_e35_light', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_menu_fullpage_wrap .ow_main_menu li a:hover {
 	color: #5b646a;
@@ -3943,12 +3943,12 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 }
 .ow_console_mailbox_title {
 	padding-right: 52px;
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;	
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;	
 }
 .ow_console_mailbox_title .ow_mailbox_convers_info_date {
 	font-size: 12px;
 	margin-right: -49px;
-	font-family: 'core_sans_e45_regular', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_chat_request_item .console_list_ipc_item {
 	padding-left: 20px;
@@ -4016,7 +4016,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 	position: relative;
 }
 .ow_main_menu {
-	font-family: 'core_sans_e45_regular', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	height: 70px;
 	overflow: hidden;
 }
@@ -4148,7 +4148,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 	outline: 0;
 	color: #4c4c4c;
 	text-transform: none;
-	font-family: 'core_sans_e35_light', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_box_menu a:first-child {
 	padding-left: 0px;
@@ -4168,7 +4168,7 @@ ul.ow_console_dropdown li:last-child .ow_console_dropdown_cont {
 /* ---- Content Menu styles ---- */
 .ow_content_menu{
 	font-size: 0px;
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	text-transform: uppercase;
 	font-weight: normal;
 	border-bottom: 1px solid #212121;
@@ -4661,7 +4661,7 @@ body .ow_context_action_value_block .ow_context_action:hover .ow_context_more {
     overflow: hidden;
 	font-weight: normal;
 	font-size: 19px;
-	font-family: 'Ubuntu','core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
+	font-family: 'opensans', Helvetica, Ubuntu, Arial,sans-serif;
 }
 .ow_box_cap h3 {
 	padding-top: 0px;
@@ -4789,7 +4789,7 @@ body .floatbox_canvas .floatbox_container {
 	padding: 8px 12px 0px;
 	float: left;
 	font-weight: normal;
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;	
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;	
 }
 .floatbox_header .ow_box_cap_icons {
 	float: right;
@@ -4818,7 +4818,7 @@ div.jhtmlarea,
 	background-color: #202020;
     border: 1px solid #212121;
     color: #fff;
-    font-family: 'core_sans_e45_regular', Helvetica, Arial;
+    font-family: 'opensans', Helvetica, Arial;
     font-size: 13px;
     padding: 4px;
 }
@@ -4891,7 +4891,7 @@ input[type=button]{
     font-weight: normal;
     cursor: pointer;
     height: 40px;
-	font-family: 'core_sans_e45_regular', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	text-transform: uppercase;
 	font-size: 15px;
 	border: none;
@@ -5116,7 +5116,7 @@ span.ow_lbutton {
     text-transform: uppercase;
     text-shadow: none;
 	display: inline-block;
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	vertical-align: text-bottom;
 	color: #5b646a;
 }
@@ -5409,7 +5409,7 @@ body .newsfeed-attachment-preview {
     height: 22px;
     overflow: hidden;
     padding-left: 8px;
-    font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_file_attachment_size {
     font-weight: normal;
@@ -5556,7 +5556,7 @@ body .ow_attachments a.video {
 	margin-bottom: 2px;
 }
 .ow_comments_item_header a {
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	color: #5b646a;
 }
 .ow_comments_item_toolbar {
@@ -5795,7 +5795,7 @@ html body div .ow_bg_controls .ow_green{
     font-size: 14px;
     padding: 5px 7px;
 	text-decoration: none;
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;	
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;	
 }
 .ow_bl_narrow li a:hover{
 	background-color: #cad4dd;
@@ -5852,7 +5852,7 @@ html body div .ow_bg_controls .ow_green{
     background-color: #F0F0F0;
 }
 .ac_match{
-    font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_suggest_field {
     position: relative;
@@ -5877,7 +5877,7 @@ html body div .ow_bg_controls .ow_green{
 	line-height: 16px;
 	padding: 0px 6px 0 7px;
 	outline: 0;
-	font-family: 'core_sans_e35_light', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	text-transform: uppercase;
 	border-right: 1px solid #4c4c4c;
 }
@@ -6204,7 +6204,7 @@ table.ow_form td.ow_submit{
     margin: 0px 0px 6px;
 }
 .ow_ipc_header a {
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_ipc.ow_smallmargin {
 	margin-bottom: 0px;
@@ -6219,7 +6219,7 @@ table.ow_form td.ow_submit{
 	float: left;
 	padding: 0 0px 0px 0px;
 	width: 100%;
-	font-family: 'core_sans_e35_light', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_ipc_toolbar .ow_icon_control {
 	padding: 0px;
@@ -6247,7 +6247,7 @@ html body div .ow_ipc_toolbar span {
     padding-top: 0;
 }
 .ow_mini_ipc_info .mipc_url {
-    font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_mini_ipc_content {
     margin-top: 5px;
@@ -6258,7 +6258,7 @@ html body div .ow_ipc_toolbar span {
 	margin-bottom: 5px;
 }
 .ow_ic_header a {
-    font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_ic_description {
 	margin-bottom: 5px;
@@ -6874,13 +6874,13 @@ body .ow_disabled::-moz-selection {
 }
 .ow_outline {
     color: #2db395; /** OW_Control type:color, section:2. Colors, key:txtValue, label:5. Numeric values **/
-    font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_lightweight {
     font-weight: normal;
 }
 .ow_txt_value {
-    font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
     color: #949a9d; /** OW_Control type:color, section:2. Colors, key:txtValue, label:5. Numeric values **/
 }
 .ow_remark {
@@ -6907,7 +6907,7 @@ tr.ow_alt2 td{
 }
 .outline{
     color: #2db395;
-    font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_highbox_table .ow_highbox,
 .ow_highbox {
@@ -7184,7 +7184,7 @@ body .ow_mailbox_convers_info_new.mails .ow_mailbox_convers_info_string a,
 body .ow_mailbox_convers_info_new.mails .ow_mailbox_convers_info_content .ow_mailbox_convers_preview, 
 body .ow_mailbox_convers_info_new.chats .ow_mailbox_convers_info_content .ow_mailbox_convers_preview, 
 body .ow_mailbox_convers_info_new.chats .ow_mailbox_convers_info_string a {
-	font-family: 'core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	font-weight: normal;
 }
 .ow_mailbox_convers_info span.ic_reply {
@@ -7244,7 +7244,7 @@ body .ow_mailbox_username .ow_mailbox_username_text {
 body .ow_mailbox_message_header a {
 	font-size: 14px;
 	font-weight: normal;
-	font-family: 'core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 body .ow_mailbox_message_content {
 	font-size: 14px;
@@ -7558,7 +7558,7 @@ body .ow_chat_mailchat_buttons .ow_attachment_btn span.ow_button:hover {
 body .ow_chat_mailchat_buttons .ow_attachment_btn span.ow_button input[type="submit"], 
 body .ow_chat_mailchat_buttons .ow_attachment_btn span.ow_button input[type="button"] {
 	text-shadow: none;
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	color: #2db395;
 	height: 24px;
 }
@@ -7704,7 +7704,7 @@ body .ow_chat_dialog_wrap .ow_dialog_item i {
     vertical-align: middle;
 }
 .ow_video_item_title{
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	padding-bottom: 3px;
 }
 .ow_video_item_rate{
@@ -7722,7 +7722,7 @@ body .ow_chat_dialog_wrap .ow_dialog_item i {
 /* ---- End of Video styles ---- */
 /* ---- Photo styles ---- */
 .ow_photo_dragndrop {
-    font-family: 'core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
+    font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
     text-transform: uppercase;
     color: #5b646a;
     background-color: #fff9ec;
@@ -7945,7 +7945,7 @@ body .ow_photoview_stage_wrap .ow_photo_context_action .ow_context_action .ow_co
 }
 .ow_photoview_info_wrap .ow_photoview_user .ow_user_list_data a:first-child {
 	font-weight: normal;
-	font-family: 'core_sans_e55_medium', "Helvetica", "Helvetica CY", sans-serif;
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 }
 .ow_photoview_info_wrap .ow_photoview_user .ow_user_list_data div, 
 .ow_photoview_info_wrap .ow_photoview_user .ow_user_list_data a {
@@ -8610,7 +8610,7 @@ body.ow.base_sign_in {
 	background: none;
 	background: #1f2124;
 	color: #e9eff5;
-	font-family: "core_sans_e45_regular","Helvetica","Arial","Verdana";
+	font-family: 'opensans', Helvetica, Arial, Ubuntu, sans-serif;
 	font-size: 17px;
 }
 .ow.base_sign_in form .ow_sign_in span.ow_button .ow_positive input:hover {
