@@ -3237,7 +3237,10 @@ hr {
     font-family: 'loganljohnson';
     src: url(https://cygonetwork.com/fonts/loganljohnson.woff) format('woff');
 }
-
+@font-face {
+    font-family: 'opensans';
+    src: url(https://cygonetwork.com/fonts/opensans.woff) format('woff');
+}
 /*========================================================
         [5] Masterpage & Page Layout        __layout
   ========================================================*/
