@@ -3160,7 +3160,7 @@ h2 {
 }
 h3 {
 	font-size: 15px;
-        font-family: 'NerdF','core_sans_e55_medium',"Helvetica","Helvetica CY",sans-serif;
+        font-family: 'loganljohnson',"Helvetica","Helvetica CY",sans-serif;
 }
 h4 {
     font-size: 13px;
@@ -3234,8 +3234,8 @@ hr {
     font-style: normal;
 }
 @font-face {
-    font-family: "loganljohnson";
-    src: url("https://cygonerdaesthetic.netlify.com/dark/fonts/loganljohnson.woff") format('woff');
+    font-family: 'loganljohnson';
+    src: url(https://cygonerdaesthetic.netlify.com/dark/fonts/loganljohnson.woff) format('woff');
 }
 
 /*========================================================
