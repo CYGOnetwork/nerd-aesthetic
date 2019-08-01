@@ -3062,7 +3062,7 @@ table, caption, tbody, tfoot, thead, tr, th, td{
 	outline: 0;
 	font-size: 100%;
 	vertical-align: baseline;
-	background: #1e1c1c;
+	background: transparent;
 }
 body {
 	line-height: 1;
