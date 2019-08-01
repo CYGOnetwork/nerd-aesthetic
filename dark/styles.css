@@ -8488,6 +8488,9 @@ body.ow.base_sign_in {
 	padding-top: 230px;
 	left: auto;
 	top: auto;
+	float: left;
+	background-color: #202020;
+	
 }
 .ow.base_sign_in .ow_sign_in_cont {
 	background-color: #1e1c1c;
