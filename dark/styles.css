@@ -10335,4 +10335,7 @@ body .ow_mailbox_form.active .ow_mailbox_message_input textarea {
 	animation: Gradient 15s ease infinite;
 	
 	{
-
+.sign_in_header {
+	float: right;
+	font-family: 'opensans', Arial, Helvetica, Ubuntu, sans-serif;
+		}
