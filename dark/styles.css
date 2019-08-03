@@ -6722,6 +6722,7 @@ body .ow_avatar_console .ow_avatar_label {
     width: 556px;
     z-index: 1000;
     margin-top: 25px;
+	color: fff;
 }
 .ow_message_node{
 	font-size:14px;
