@@ -7411,7 +7411,7 @@ body .ow_chat_dialog_wrap .ow_chat_message_block .ow_chat_message textarea,
 body .ow_mailchat_new_message.ow_chat_dialog.ow_active .ow_mailchat_select_user input,
 html body .ow_chat_dialog .ow_chat_subject_block input,
 body .ow_mailchat_autocomplete_inner span.ow_chat_item_author .ow_chat_in_item_author {
-	color:#ffffff;
+	color:#555555;
 	font-weight: normal;
 }
 body .ow_author_block span.ow_chat_item_author {
