@@ -3402,6 +3402,7 @@ a.ow_logo:hover {
 	overflow:hidden;
 	padding-top:5px;
     height: 20px;
+	color: #555;
 }
 .ow_dnd_schem_item span.action{
 	line-height:15px;
