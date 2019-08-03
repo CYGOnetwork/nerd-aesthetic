@@ -10339,3 +10339,6 @@ body .ow_mailbox_form.active .ow_mailbox_message_input textarea {
 	float: right;
 	font-family: 'opensans', Arial, Helvetica, Ubuntu, sans-serif;
 		}
+.ow_label.dd_title {
+    color: #555;
+}
