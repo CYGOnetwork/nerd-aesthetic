@@ -6755,7 +6755,7 @@ body .ow_avatar_console .ow_avatar_label {
 }
 /*info*/
 .ow_message_cont .ow_message_node.info {
-	color: #36d0ae;
+	color: #ffffff;
 }
 /*warning*/
 .ow_message_cont .ow_message_node.warning {
