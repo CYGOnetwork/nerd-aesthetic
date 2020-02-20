@@ -6763,7 +6763,7 @@ body .ow_avatar_console .ow_avatar_label {
 }
 /*error*/
 .ow_message_cont .ow_message_node.error {
-	color: #dc3c56;
+	color: #fff;
 }
 /* ---- End of the Message (Feedback) styles ---- */
 /*========================================================
