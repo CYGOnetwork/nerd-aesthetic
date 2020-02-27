@@ -8486,7 +8486,7 @@ body.base_sign_in .ow_footer .ow_page > div {
 	padding-bottom: 0 !important;
 }
 body.ow.base_sign_in {
-	background-color: #2f3335;
+	background-color: transparent;
 }
 .ow.base_sign_in .ow_sign_in_wrap {
 	width: 1055px;
