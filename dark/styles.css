@@ -3300,7 +3300,7 @@ body > .ow_page_wrap {
 /* Footer */
 .ow_footer {
     padding:1px 0px;
-	background: #212121; /** OW_Control type:color, section:1. General Settings, key:footerColor, label:4. Footer background color **/	
+	background: transparent; /** OW_Control type:color, section:1. General Settings, key:footerColor, label:4. Footer background color **/	
 	height: 96px;
 	position: relative;
 	margin-top: -99px;
